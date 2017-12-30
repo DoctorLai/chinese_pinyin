@@ -1,0 +1,30 @@
+{
+  "name": "chinese_pinyin",
+  "version": "1.0.0",
+  "description": "Convert a Chinese String (e.g. Address) to Pinyin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "line-by-line": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorLai/chinese_pinyin.git"
+  },
+  "keywords": [
+    "chinese",
+    "pinyin"
+  ],
+  "author": "justyy <dr.zhihua.lai@gmail.com> (https://helloacm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoctorLai/chinese_pinyin/issues"
+  },
+  "homepage": "https://github.com/DoctorLai/chinese_pinyin#readme"
+}
