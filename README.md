@@ -17,6 +17,11 @@ Output:
 "ni hao ，wo shi @justyy"
 ```
 
+## Tests
+```
+npm test
+```
+
 ## Online Tool
 You may also like [this tool](https://justyy.com/archives/3450).
 
