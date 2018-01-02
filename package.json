@@ -1,6 +1,6 @@
 {
   "name": "chinese_pinyin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert a Chinese String (e.g. Address) to Pinyin",
   "main": "index.js",
   "directories": {
